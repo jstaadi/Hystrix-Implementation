@@ -1,0 +1,9 @@
+jwt:
+  secret: ENC(NKkpFWpqVufAyTB+JIYa4kYGzEG3vGsaecrjA5r8dgY=)
+  tokenPassword: ENC(kMNGx364iam2sCOg8/zbRM9klK92cJX0nHY49WblbXuQA+6plxvQd9wskUbVoNRpyYuy6LjQJ9+UwNTke/FO4+w7STtEwRkpKed/OGZqBQY=)
+  tokenUsername: ENC(+fVQGbnJzDWjbWSFA+95ZX2TgpspE9En)
+
+
+
+
+  #jasypt pwd(template)
